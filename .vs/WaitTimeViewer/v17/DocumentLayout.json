@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\models\\parkgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:models\\parkgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\models\\queuetimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:models\\queuetimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\waittimeviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:waittimeviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|c:\\users\\tyler\\source\\repos\\waittimeviewer\\assets\\fonts\\nunito-semibold.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B2606BCF-E1E3-4DCB-948E-2B7CD01DB3BE}|WaitTimeViewer.csproj|solutionrelative:assets\\fonts\\nunito-semibold.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\Ride.cs",
+              "RelativeToolTip": "Models\\Ride.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:19:34.191Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueTimes.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\QueueTimes.cs",
+              "RelativeDocumentMoniker": "Models\\QueueTimes.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\QueueTimes.cs",
+              "RelativeToolTip": "Models\\QueueTimes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:47:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\Land.cs",
+              "RelativeDocumentMoniker": "Models\\Land.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\Land.cs",
+              "RelativeToolTip": "Models\\Land.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:20:10.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswDMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-13T16:55:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkGroup.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\ParkGroup.cs",
+              "RelativeDocumentMoniker": "Models\\ParkGroup.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\ParkGroup.cs",
+              "RelativeToolTip": "Models\\ParkGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:50:35.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:56:55.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwCgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:54:59.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:14:15.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T23:14:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaitTimeViewer.csproj",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\WaitTimeViewer.csproj",
+              "RelativeDocumentMoniker": "WaitTimeViewer.csproj",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\WaitTimeViewer.csproj",
+              "RelativeToolTip": "WaitTimeViewer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T21:40:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Park.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\Park.cs",
+              "RelativeDocumentMoniker": "Models\\Park.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Models\\Park.cs",
+              "RelativeToolTip": "Models\\Park.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:50:54.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Nunito-SemiBold.ttf",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Assets\\Fonts\\Nunito-SemiBold.ttf",
+              "RelativeDocumentMoniker": "Assets\\Fonts\\Nunito-SemiBold.ttf",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\WaitTimeViewer\\Assets\\Fonts\\Nunito-SemiBold.ttf",
+              "RelativeToolTip": "Assets\\Fonts\\Nunito-SemiBold.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-24T23:30:12.28Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

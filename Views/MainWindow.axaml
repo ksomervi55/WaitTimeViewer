@@ -1,0 +1,62 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:WaitTimeViewer.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:models ="using:WaitTimeViewer.Models"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="WaitTimeViewer.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+		
+        Icon="/Assets/avalonia-logo.ico"
+        Title="WaitTimeViewer">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel />
+    </Design.DataContext>
+	<Window.Background>
+		<LinearGradientBrush StartPoint="0,0" EndPoint="0,800">
+			<GradientStop Color="Purple" Offset="0"/>
+			<GradientStop Color="Blue" Offset="1"/>
+		</LinearGradientBrush>
+	</Window.Background>
+
+	<Panel>
+		<Image Source="avares://WaitTimeViewer/Assets/Images/castle.png" 
+		       Stretch="UniformToFill"
+		       Opacity="0.5"/>
+		<Carousel Name="slides" ItemsSource="{Binding Rides}" Width="2000" Height="1000" >
+      <Carousel.PageTransition >
+        <CompositePageTransition>
+          <PageSlide Duration="0:00:01.500" Orientation="Horizontal" />
+        </CompositePageTransition>
+      </Carousel.PageTransition>
+			<Carousel.ItemTemplate >
+				<DataTemplate DataType="models:Ride">
+					<StackPanel 
+					      MinWidth="1200"
+					      HorizontalAlignment="Center" VerticalAlignment="Center" >
+
+						<TextBlock TextWrapping="Wrap" MaxWidth="800" TextAlignment="Center"
+								   FontFamily="{StaticResource PixelfySans}"  FontSize="40" HorizontalAlignment="Center"
+								   Text="{Binding name}" />
+
+						<TextBlock 
+						           FontFamily="{StaticResource PixelfySans}" FontSize="40" HorizontalAlignment="Center"
+						           Text="{Binding wait_time}" />
+
+					</StackPanel>
+				</DataTemplate>
+			</Carousel.ItemTemplate>
+		
+		</Carousel>
+		<Panel Margin="20">
+			<Button Background="White" Click="Previous">&lt;</Button>
+			<Button Background="White" Click="Next"
+					HorizontalAlignment="Right">&gt;</Button>
+		</Panel>
+	</Panel>
+
+</Window>
